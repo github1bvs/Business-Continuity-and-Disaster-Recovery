@@ -77,7 +77,3 @@ The Business Continuity and Disaster Recovery project aims to identify, evaluate
 - **Project Lead**: Venkata Swamy Bathala
 - **Business Continuity Specialist**: Venkata Swamy Bathala
 - **Disaster Recovery Expert**: Venkata Swamy Bathala
-
-## License
-
-This project is licensed under the MIT License.
